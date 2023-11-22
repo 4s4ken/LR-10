@@ -1,0 +1,3 @@
+﻿  LR-10.cpp
+C:\Users\glebe\Downloads\+\LR-10\LR-10\LR-10.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR-10.vcxproj -> C:\Users\glebe\Downloads\+\LR-10\x64\Debug\LR-10.exe
